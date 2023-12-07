@@ -1,6 +1,13 @@
-remote_theme: https://github.com/rouge-ruby/rouge.git
-highlighter: rouge
-markdown: kramdown
-kramdown:
-input: GFM
-syntax_highlighter: rouge
+# _config.yml
+
+remote_theme: pages-themes/minimal
+
+title: "Il Tuo Sito"
+description: "Descrizione del tuo sito"
+url: "https://il-tuo-sito.com"
+
+plugins:
+  - jekyll-feed
+
+# Altre impostazioni specifiche del tuo sito
+# ...
