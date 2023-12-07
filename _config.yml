@@ -1,4 +1,4 @@
-remote_theme: rouge-ruby/rouge.git
+remote_theme: https://github.com/rouge-ruby/rouge.git
 highlighter: rouge
 markdown: kramdown
 kramdown:
